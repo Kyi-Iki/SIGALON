@@ -4,7 +4,7 @@ use App\Enums\JenisItem;
 use App\Enums\Kanal;
 use App\Enums\MetodePembayaran;
 use App\Enums\Role;
-use App\Enums\StatusTransaksi;
+use App\Enums\StatusTransaksi; 
 use App\Models\Cabang;
 use App\Models\Transaksi;
 use App\Models\User;
